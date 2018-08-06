@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DownloaderApp</string>
+
+    <string name="download_button_name">Download</string>
+    <string name="status_idle_text">Status</string>
+    <string name="status_downloading_text">Loading..</string>
+    <string name="status_downloaded_text">Downloaded</string>
+
+</resources>
