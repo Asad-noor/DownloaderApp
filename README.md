@@ -10,7 +10,5 @@
 
 #### Specifications: 
 
- - Use standard material UI.
+ - Have been used standard material UI.
  - Sample file to [download](http://dropbox.sandbox2000.com/intrvw/SampleVideo_1280x720_30mb.mp4).
- - Feature wise you don't need to implement anything else other than what is specified. 
- - Don't worry if the app isn't 100% functional, write high level classes/methods so that we can understand you are on right track.
