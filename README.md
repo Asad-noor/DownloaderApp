@@ -1,4 +1,4 @@
-### Design an app where user can download a large file from internet.		
+### This app is about downloading large file in background where user can download it from internet.		
 
 #### Features: 
 
